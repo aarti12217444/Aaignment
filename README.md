@@ -1,4 +1,4 @@
-# Aaignment
+# Assignment
 Assignment: Prompt Engineering Intern
 
 # 🩺 Nursing College Admission Assistant - Prompt Engineering Assignment
